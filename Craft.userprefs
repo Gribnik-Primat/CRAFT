@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DoCraft.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Item.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ItemsDB.cs" Line="44" Column="1" />
+      <File FileName="Assets\Scripts\Inventory.cs" Line="46" Column="14" />
+      <File FileName="Assets\Scripts\Craft.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BlueprintDB.cs" Line="16" Column="38" />
+      <File FileName="Assets\Scripts\Blueprint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DoCraft.cs" Line="58" Column="1" />
+      <File FileName="Assets\Scripts\SaveActiveSlotNumber.cs" Line="13" Column="1" />
+      <File FileName="Assets\Scripts\Slot.cs" Line="80" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Grigorii\Desktop\CRAFT\Craft\Assets\Scripts\DoCraft.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 41157289fced745698d4a6b8ecde4a23
+timeCreated: 1493359151
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stem
+  fontNames:
+  - Stem
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 179425040feb8412e98140cc0359a8ba, type: 3}
+  - {fileID: 12800000, guid: 0333ae49fa5eb4164b3971dac5baa30b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
